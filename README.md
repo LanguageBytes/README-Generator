@@ -1,2 +1,2 @@
-# README Generator
+# <p align ="center"> README Generator </p>
  
