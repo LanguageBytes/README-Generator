@@ -1,22 +1,30 @@
 
   
-  # s
+  # Junior Dev Hub
+
+  ## Table of Contents
+  * [Description](#Description)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Collaborators](#Collaborators)
+  * [License](#License)
 
   ## Description 
+  As Junior Developers, we wanted to create a site specifically tailored to Junior Developers looking for their first job.
+  This project was built to help them find their first job.
+  ala
   s
-  s
-  s
-  ss
 
   ## Installation 
-  s
+  To install use npm 
 
   ## Usage 
-  s
+  j
 
   ## Collaborators
-  ss
+  This project was created by n 
 
   ## License 
-   apache
-   '[![License](https://img.shields.io/badge/License-apache_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)'
+   This project is licensed under apache 
+
+   '[![License](https://img.shields.io/badge/License-apache_1.0-lightblue.svg)]'
