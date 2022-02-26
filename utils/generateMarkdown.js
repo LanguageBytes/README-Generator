@@ -4,6 +4,13 @@ const generateMarkdown = data => {
   
   # ${data.projectName}
 
+  ## Table of Contents
+  * [Description](#Description)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Collaborators](#Collaborators)
+  * [License](#License)
+
   ## Description 
   ${data.motivation}
   ${data.why}
@@ -17,10 +24,11 @@ const generateMarkdown = data => {
   ${data.usage}
 
   ## Collaborators
-  ${data.collab}
+  This project was created by ${data.collab} 
 
   ## License 
-   ${data.license}
+   This project is licensed under ${data.license} 
+
    '[![License](https://img.shields.io/badge/License-${data.license}_1.0-lightblue.svg)]'
 `;
 }

@@ -90,25 +90,25 @@ const questions = () => {
 
 
                 },
-                { 
-                  type: 'input',
-                  name: 'collab',
-                  message:'Please list any collaborators on this project',
+              { 
+                type: 'input',
+                name: 'collab',
+                message:'Please list any collaborators on this project',
                   default: input => {
                     if (!input) {
                          return ""; 
                        }
                     }       
                  }, 
-                 {type: 'list',
-        name: 'license',
-        message: 'What kind of license should your project have?',
-        choices: ['apache', 'boost'],
-        default: ["apache"],
-        validate: input => {
-            if (input) {
-                return true;
-            } else {
+              {type: 'list',
+              name: 'license',
+              message: 'What kind of license should your project have?',
+              choices: ['apache', 'boost'],
+              default: ["apache"],
+              validate: input => {
+               if (input) {
+              return true;
+                         } else {
                 console.log('Please choose a license!');
                 return false;     
             }
