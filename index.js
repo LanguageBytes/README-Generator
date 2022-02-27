@@ -20,14 +20,26 @@ const questions = () => {
           },
     { 
         type: 'input',
-        name: 'motivation',
-        message: 'What was your motivation for this project?',
+        name: 'github',
+        message: 'What is your Github Username?',
         default: input => {
              if (!input) {
                   return ""; 
                 }
               }
             },
+            {
+        type: 'input',
+        name: 'email',
+        message: 'What is your email address?',
+        default: input => {
+             if (!input) {
+                  return ""; 
+                }
+              }
+            },
+
+            
     { 
         type: 'input',
         name: 'why',
