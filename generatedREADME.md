@@ -1,5 +1,3 @@
-
-  
   # Junior Dev Hub
 
   ## Table of Contents
@@ -15,7 +13,7 @@
 
   ## Installation 
 
-  Use the package manager [pip](https://example) to install the application.
+  Use the package manager [pip](https://example) to install example application.
 
   ## Usage 
   
@@ -23,8 +21,8 @@
 
   Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-  
   ## Collaborators
+
   This project was created by Sarah Lloyd, Carla Brown and Emily Mckibben.
 
   ## Contact 
@@ -36,4 +34,4 @@
   ## License 
   This project is licensed under apache 
 
-   [![License](https://img.shields.io/badge/License-apache_1.0-lightblue.svg)]'
+   ![License](https://img.shields.io/badge/License-apache_1.0-lightblue.svg)'
