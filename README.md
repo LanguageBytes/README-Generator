@@ -1,7 +1,7 @@
 # <p align ="center"> README Generator </p>
 
  <p align="center">
-  <img src="images/screenshot.pdf"/>
+  <img src="images/screenshot.jpg"/>
 </p>
 
   
