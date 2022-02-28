@@ -4,7 +4,8 @@
   <img src="screenshot.jpg"/>
 </p>
 
-Link to demo - https://github.com/LanguageBytes/README-Generator/blob/a47086a5a4060ef7a09052deaca92629a2f0a3e9/Demo%20video.mp4
+Link to demo video - https://github.com/LanguageBytes/README-Generator/blob/a47086a5a4060ef7a09052deaca92629a2f0a3e9/Demo%20video.mp4
+(File is large, please view raw)
 
   
   ## Description 
