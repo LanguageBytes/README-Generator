@@ -21,11 +21,9 @@ This application allows the user to generate a README based on a set of question
    npm i 
   
    ## Usage
+   
+ ```
+ node index.js
 
-  ''
-  node index.js 
-  
-  ''
-  
-    Answer the questions as prompted.
-
+ ```
+ Answer the questions as prompted.
