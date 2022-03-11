@@ -13,17 +13,13 @@
 
   ## Installation 
 
-  '''
+  ```
   npm i
-
-  '''
 
   ## Usage 
   
-  '''
+  ```
   node index.js
-
-  '''
   
   ## Collaborators
 
