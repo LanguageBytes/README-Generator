@@ -22,7 +22,7 @@ This application allows the user to generate a README based on a set of question
    npm i 
    
   ```
-  Install packages
+  *Node must be installed
   
    ## Usage
    
