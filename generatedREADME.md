@@ -38,4 +38,4 @@
   ## License 
   This project is licensed under apache 
 
-   [![License](https://img.shields.io/badge/License-apache_1.0-lightblue.svg)]
+   ![License](https://img.shields.io/badge/License-apache_1.0-lightblue.svg)
