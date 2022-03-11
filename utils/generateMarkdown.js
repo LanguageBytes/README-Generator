@@ -13,25 +13,25 @@ const generateMarkdown = data => {
   * [License](#License)
 
   ## Description 
-  
+
   ${data.why}
   ${data.problem}
   ${data.learnt}
 
   ## Installation 
 
-  '''
+  ```
   ${data.install}
 
-  '''
+  ```
 
   ## Usage 
   
   
-  '''
+  ```
   ${data.usage}
   
-  '''
+  ```
   
   ## Contributing
 
