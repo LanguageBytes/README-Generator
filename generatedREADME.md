@@ -15,21 +15,15 @@
 
   ```
   npm i
-
-<<<<<<< HEAD
+  
   ```
 
-=======
->>>>>>> 11abdd917398c1a33f9a285900e00f5ed17811fa
   ## Usage 
   
   ```
   node index.js
-<<<<<<< HEAD
 
   ```
-=======
->>>>>>> 11abdd917398c1a33f9a285900e00f5ed17811fa
   
   ## Collaborators
 
