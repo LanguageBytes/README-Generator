@@ -18,8 +18,10 @@ This application allows the user to generate a README based on a set of question
 
   ## Installation 
   
+  ```
    npm i 
-  
+   
+  ```
    ## Usage
    
  ```
